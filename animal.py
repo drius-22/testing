@@ -1,5 +1,8 @@
 import  sys
 
+def cat():
+    print ("meour !")
+
 def dog():
     print ("hua  !  ")
 
