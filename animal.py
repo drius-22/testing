@@ -1,6 +1,7 @@
 import  sys
 
-
+def dog():
+    print ("hua  !  ")
 
 
 def default():
