@@ -1,9 +1,7 @@
 import  sys
 
 
-#jflksjdkfljdslkfj 
-def cat():
-    print ("meour !")
+
 
 def dog():
     print ("hua  !  ")
@@ -13,7 +11,10 @@ def default():
     print('What is up ????')
 
 def main():
-    default()
+    if sys.argv[1]== 'dog':
+        dog()
+    else:
+        default()
 
 if __name__ == '__main__':
     main()
