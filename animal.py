@@ -1,12 +1,6 @@
 import  sys
 
 
-#jflksjdkfljdslkfj 
-def cat():
-    print ("meour !")
-
-def dog():
-    print ("hua  !  ")
 
 
 def default():
